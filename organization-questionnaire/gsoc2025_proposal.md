@@ -37,20 +37,19 @@ Open Science Labs aims to participate in Google Summer of Code (GSoC) to further
 its mission of promoting open science and collaborative development. By
 participating in the program, the organization is able to attract students from
 diverse academic backgrounds and skill levels, enabling them to contribute their
-unique perspectives and skills to open science projects. This not only enriches
-the Open Science Labs ecosystem, but also allows students to apply theoretical
+unique perspectives and skills to open source projects. This not only enriches
+the open source ecosystem, but also allows students to apply theoretical
 knowledge to practical, high-impact projects, benefiting the global science and
 technology community. Additionally, Open Science Labs will be joining forces
 with open science and open-source projects that have great potential but often
 lack the necessary visibility.
 
-GSoC provides an ideal platform for Open Science Labs and small projects to
-showcase and promote open source software development projects. As an
-organization committed to open science, one of its main goals is to create and
-improve tools that are accessible to everyone. Through GSoC, students can work
-on projects ranging from improving existing tools to developing new features,
-directly contributing to the advancement of open science and reaching a global
-audience.
+GSoC provides an ideal platform for large and small projects to showcase and
+promote their unique functionalities. As an organization committed to open
+science and open source, one of its main goals is to create and improve tools
+that are accessible to everyone. Through GSoC, students can work on projects
+ranging from improving existing tools to developing new features, directly
+contributing to the advancement of open science and reaching a global audience.
 
 Mentorship is another key aspect of Open Science Labs involvement in GSoC. By
 providing guidance and support, the organization helps students to develop
@@ -84,9 +83,8 @@ of existing tools or the creation of new ones that benefit the open science
 community. In addition, fostering a sense of collaboration and community among
 participants, both during and after the program, would be a key indicator of
 success. Ultimately, a successful GSoC would not only drive innovation and
-growth for Open Science Labs, but also inspire students to continue contributing
-to open science and open source projects, further increasing the organization's
-impact.
+growth for the open source projects, but also inspire students to continue
+contributing to these projects, further increasing the organization's impact.
 
 ## How will you keep mentors engaged with their GSoC contributors?
 
@@ -115,18 +113,13 @@ encouraging the use of project management tools. Mentors would actively guide
 contributors, fostering open communication and providing support to overcome
 challenges. By breaking down larger goals into manageable tasks and maintaining
 a supportive environment, Open Science Labs would ensure that contributors stay
-motivated, productive, and on track to deliver impactful results. Also, our
-organization has members from multiple countries, and most meetings are held in
-Spanish, Portuguese and English to accommodate everyone. We will invite every
-selected student to these meetings and make them feel welcome.
+motivated, productive, and on track to deliver impactful results. We will invite
+every selected student to these meetings and make them feel welcome.
 
 ## How will you keep your GSoC contributors involved in your community during and after GSoC?
 
 To keep GSoC contributors involved in the Open Science Labs community during and
-after GSoC, we will leverage our welcoming and inclusive environment. Our
-community includes members from multiple countries, and meetings are held in
-Spanish, English, and Portuguese to accommodate everyone. We will invite each
-selected student to these meetings to foster a sense of belonging. Regular
+after GSoC, we will leverage our welcoming and inclusive environment. Regular
 check-ins will be scheduled to discuss progress and provide feedback,
 encouraging students to present their work in blogs and topical meetings. This
 will help them gain confidence and interact with other contributors. We will
@@ -134,11 +127,12 @@ also share their work with our partners and on social media to boost visibility
 within the open-source scientific community.
 
 After GSoC, we will continue to provide mentorship and support, offering
-internships and inviting contributors to join study groups and new projects.
-Community events, workshops, and webinars will keep contributors engaged, and an
-alumni network will help them stay connected. By implementing these strategies,
-Open Science Labs aims to create a supportive environment that keeps GSoC
-contributors involved both during and after the program. Has your org been
-accepted as a mentor org in GSoC? Yes, Open Science Labs has been accepted as a
-mentor organization in Google Summer of Code (GSoC) under the umbrella of
-NumFOCUS.
+internships, small grants and inviting contributors to join study groups and new
+projects. Community events, workshops, and webinars will keep contributors
+engaged, and an alumni network will help them stay connected. By implementing
+these strategies, Open Science Labs aims to create a supportive environment that
+keeps GSoC contributors involved both during and after the program.
+
+## Has your org been accepted as a mentor org in GSoC?
+
+No
