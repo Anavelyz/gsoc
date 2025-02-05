@@ -33,44 +33,7 @@ BSD 3 Clause: <https://github.com/osl-incubator/scicookie/blob/main/LICENSE>
 
 ## Why does your org want to participate in GSoC?
 
-Open Science Labs aims to participate in Google Summer of Code (GSoC) to further
-its mission of promoting open science and collaborative development. By
-participating in the program, the organization is able to attract students from
-diverse academic backgrounds and skill levels, enabling them to contribute their
-unique perspectives and skills to open source projects. This not only enriches
-the open source ecosystem, but also allows students to apply theoretical
-knowledge to practical, high-impact projects, benefiting the global science and
-technology community. Additionally, Open Science Labs will be joining forces
-with open science and open-source projects that have great potential but often
-lack the necessary visibility.
-
-GSoC provides an ideal platform for large and small projects to showcase and
-promote their unique functionalities. As an organization committed to open
-science and open source, one of its main goals is to create and improve tools
-that are accessible to everyone. Through GSoC, students can work on projects
-ranging from improving existing tools to developing new features, directly
-contributing to the advancement of open science and reaching a global audience.
-
-Mentorship is another key aspect of Open Science Labs involvement in GSoC. By
-providing guidance and support, the organization helps students to develop
-professionally while introducing them to the world of open source software
-development. This mentorship reinforces Open Science Labs’ commitment to
-education and talent development, ensuring that students gain valuable skills
-and a deep understanding of how to effectively contribute to open source
-projects.
-
-In addition, GSoC fosters a sense of community and collaboration that aligns
-with Open Science Labs' values. Participation in the program allows the
-organization to expand its network of collaborators and cultivate an environment
-of teamwork that extends beyond the duration of the program. This
-community-driven approach strengthens connections between participants and
-fosters a culture of ongoing collaboration in science and technology.
-
-In summary, GSoC enables Open Science Labs to innovate and develop through
-proposed initiatives, also to sell open technological know-how, guide open
-supply software program improvement, guide students of their expert growth,
-strengthen worldwide collaboration, and foster innovation in technological
-know-how and technology.
+Open Science Labs aims to participate in Google Summer of Code (GSoC) to further its mission of promoting open science and collaborative development. By participating in the program, the organization is able to attract students from diverse academic backgrounds and skill levels, allowing them to contribute their unique perspectives and skills to open source projects. This not only enriches the open source ecosystem, but also allows students to apply theoretical knowledge to practical, high-impact projects, benefiting the global science and technology community. In addition, Open Science Labs will join forces with open science and open source projects that have great potential but often lack the necessary visibility, acting as an umbrella organization.
 
 ## What would your organization consider to be a successful GSoC for your org?
 
