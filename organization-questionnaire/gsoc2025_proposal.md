@@ -33,7 +33,14 @@ BSD 3 Clause: <https://github.com/osl-incubator/scicookie/blob/main/LICENSE>
 
 ## Why does your org want to participate in GSoC?
 
-Open Science Labs aims to participate in Google Summer of Code (GSoC) to further its mission of promoting open science and collaborative development. By participating in the program, the organization is able to attract students from diverse academic backgrounds and skill levels, allowing them to contribute their unique perspectives and skills to open source projects. This not only enriches the open source ecosystem, but also allows students to apply theoretical knowledge to practical, high-impact projects, benefiting the global science and technology community. In addition, Open Science Labs will join forces with open science and open source projects that have great potential but often lack the necessary visibility, acting as an umbrella organization.
+Open Science Labs aims to participate in Google Summer of Code (GSoC) to further
+its mission of promoting open science and collaborative development. By
+participating in the program, the organization will be able to connect with
+students from diverse academic backgrounds and skill levels, empowering them to
+contribute their unique perspectives and skills to open source projects and
+apply their knowledge to real-world, impactful work. In addition, Open Science
+Labs will be joining forces with open science and open source projects that have
+great potential but often lack the necessary visibility.
 
 ## What would your organization consider to be a successful GSoC for your org?
 
@@ -66,36 +73,37 @@ for success - empowering the community through tools, resources and support - we
 ensure that mentors stay motivated and invested in helping contributors succeed,
 ultimately contributing to the lasting impact of open science and technology.
 
-## How will you help your GSoC contributors stay on schedule to complete their projects?
+## How will you keep your GSoC contributors on schedule to complete their projects?
 
-To help GSoC contributors stay on schedule and complete their projects
-successfully, Open Science Labs would implement a structured yet flexible
-approach. This would include establishing clear milestones and deliverables at
-the outset, scheduling regular check-ins for progress reviews and feedback, and
-encouraging the use of project management tools. Mentors would actively guide
+To keep GSoC contributors on schedule and ensure the successful completion of
+their projects, Open Science Labs will implement a structured yet flexible
+approach. This includes establishing clear milestones and deliverables at the
+outset, scheduling regular check-ins for progress reviews and feedback, and
+encouraging the use of project management tools. Mentors will actively guide
 contributors, fostering open communication and providing support to overcome
 challenges. By breaking down larger goals into manageable tasks and maintaining
-a supportive environment, Open Science Labs would ensure that contributors stay
-motivated, productive, and on track to deliver impactful results. We will invite
-every selected student to these meetings and make them feel welcome.
+a supportive environment, Open Science Labs will ensure contributors stay
+motivated, productive, and on track to deliver impactful results.
 
-## How will you keep your GSoC contributors involved in your community during and after GSoC?
+## How will you get your GSoC contributors involved in your community during GSoC?
 
-To keep GSoC contributors involved in the Open Science Labs community during and
-after GSoC, we will leverage our welcoming and inclusive environment. Regular
-check-ins will be scheduled to discuss progress and provide feedback,
-encouraging students to present their work in blogs and topical meetings. This
-will help them gain confidence and interact with other contributors. We will
-also share their work with our partners and on social media to boost visibility
-within the open-source scientific community.
+To get GSoC contributors involved in the Open Science Labs community during
+GSoC, we will leverage our welcoming and inclusive environment. Regular
+check-ins will be scheduled to discuss progress, provide feedback, and ensure
+they feel supported throughout the program. Students will be encouraged to
+present their work in blogs and topical meetings, helping them gain confidence
+and interact with peers and mentors across sub-organizations. Additionally,
+their work will be shared with partners and on social media to boost visibility
+within the open-source scientific community. To further integrate them,
+contributors will participate in community events, workshops, and collaborative
+projects, fostering a sense of belonging and active engagement within the Open
+Science Labs ecosystem.
 
-After GSoC, we will continue to provide mentorship and support, offering
-internships, small grants and inviting contributors to join study groups and new
-projects. Community events, workshops, and webinars will keep contributors
-engaged, and an alumni network will help them stay connected. By implementing
-these strategies, Open Science Labs aims to create a supportive environment that
-keeps GSoC contributors involved both during and after the program.
+## Anything else we should know? (Optional)
 
-## Has your org been accepted as a mentor org in GSoC?
+Open Science Labs has previously successfully participated in GSoC under the
+NumFOCUS umbrella.
+
+## Is your organization part of any government?
 
 No
