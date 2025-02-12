@@ -38,9 +38,10 @@ its mission of promoting open science and collaborative development. By
 participating in the program, the organization will be able to connect with
 students from diverse academic backgrounds and skill levels, empowering them to
 contribute their unique perspectives and skills to open source projects and
-apply their knowledge to real-world, impactful work. In addition, Open Science
-Labs will be joining forces with open science and open source projects that have
-great potential but often lack the necessary visibility.
+apply their knowledge to real-world, impactful work. Furthermore, Open Science
+Labs will serve as an umbrella organization, partnering with promising open
+science and open source projects that often lack visibility to help them get the
+recognition and support they deserve.
 
 ## What would your organization consider to be a successful GSoC for your org?
 
@@ -62,42 +63,41 @@ At Open Science Labs, the commitment of mentors to their GSoC participants is
 rooted in our core values of collaboration, innovation, and openness, as well as
 our commitment to education and community growth. Mentors at OSL are naturally
 passionate about fostering learning and development, which drives their
-commitment to mentoring students throughout the program. To maintain this
-commitment, we create a supportive environment where mentors feel valued and
-connected to the mission of advancing open science. Regular check-ins,
-collaborative discussions, and shared goals help mentors stay actively involved
-in their contributors' progress. We also emphasize the importance of
-peer-to-peer learning, where mentors not only share their expertise, but also
-gain fresh perspectives from students. By aligning mentorship with our formula
-for success - empowering the community through tools, resources and support - we
-ensure that mentors stay motivated and invested in helping contributors succeed,
-ultimately contributing to the lasting impact of open science and technology.
+commitment to mentoring students throughout the program. Additionally, many of
+them are authors and/or maintainers of the projects. At Open Science Labs we
+emphasize the importance of peer-to-peer learning, where mentors not only share
+their expertise, but also gain fresh perspectives from students. By aligning
+mentorship with our formula for success - empowering the community through
+tools, resources and support - we ensure that mentors stay motivated and
+invested in helping contributors succeed, ultimately contributing to the lasting
+impact of open science and technology.
 
 ## How will you keep your GSoC contributors on schedule to complete their projects?
 
 To keep GSoC contributors on schedule and ensure the successful completion of
 their projects, Open Science Labs will implement a structured yet flexible
-approach. This includes establishing clear milestones and deliverables at the
-outset, scheduling regular check-ins for progress reviews and feedback, and
+approach. This includes establishing clear milestones and deliverables from the
+start, scheduling regular check-ins for progress reviews and feedback, and
 encouraging the use of project management tools. Mentors will actively guide
 contributors, fostering open communication and providing support to overcome
 challenges. By breaking down larger goals into manageable tasks and maintaining
 a supportive environment, Open Science Labs will ensure contributors stay
-motivated, productive, and on track to deliver impactful results.
+motivated, productive, and on track to deliver impactful results. Additionally,
+with an open and active community, students can raise any questions in the chat
+channels on Discord.
 
 ## How will you get your GSoC contributors involved in your community during GSoC?
 
 To get GSoC contributors involved in the Open Science Labs community during
-GSoC, we will leverage our welcoming and inclusive environment. Regular
-check-ins will be scheduled to discuss progress, provide feedback, and ensure
-they feel supported throughout the program. Students will be encouraged to
-present their work in blogs and topical meetings, helping them gain confidence
-and interact with peers and mentors across sub-organizations. Additionally,
-their work will be shared with partners and on social media to boost visibility
+GSoC, we will leverage our welcoming and inclusive environment. Students will be
+encouraged to present their work in blogs and topical meetings, helping them
+gain confidence and interact with peers and mentors across sub-organizations.
+Their work will be shared with partners and on social media to boost visibility
 within the open-source scientific community. To further integrate them,
 contributors will participate in community events, workshops, and collaborative
 projects, fostering a sense of belonging and active engagement within the Open
-Science Labs ecosystem.
+Science Labs ecosystem. Additionally, they will have opportunities to share
+their interests and connect with like-minded collaborators.
 
 ## Anything else we should know? (Optional)
 
