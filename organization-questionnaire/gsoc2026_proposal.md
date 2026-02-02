@@ -109,7 +109,7 @@ their interests and connect with like-minded collaborators.
 ## Anything else we should know? (Optional)
 
 Open Science Labs has previously participated successfully in GSoC, both under
-the NumFOCUS umbrella (2024) and independently (2025).
+the NumFOCUS umbrella (2023 and 2024) and as a Mentoring Organization (2025).
 
 ## Is your organization part of any government?
 
